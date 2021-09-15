@@ -24,4 +24,11 @@ mkdir routes
 mkdir views
 
 # app.js 생성
+
+
+# package.json 추가
+"scripts": {
+	"start": "nodemon app",
+	"test": "echo \"Error: no test specified\" && exit 1"
+}
 ```
